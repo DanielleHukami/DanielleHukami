@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DanielleHukami)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniellehukami/)
 
-Welcome to my Github page! I am Dani and I am currently finishing my System Analysis and Development degree at the university Positivo  
+Welcome to my Github page! I am Dani and I am currently finishing my System Analysis and Development degree at the Positivo University  
 
 <img align="right" alt="img" src="https://media4.giphy.com/media/137EaR4vAOCn1S/giphy.gif?cid=ecf05e475nkraheaznaa4u47hc0i9fngapmfinytqcbjadlu&rid=giphy.gif&ct=g" width="50%" height="auto" />
 
