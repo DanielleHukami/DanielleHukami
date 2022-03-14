@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am Dani and I am currently finishing my System Analysis and Development degree at the university Positivo  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://media4.giphy.com/media/137EaR4vAOCn1S/giphy.gif?cid=ecf05e475nkraheaznaa4u47hc0i9fngapmfinytqcbjadlu&rid=giphy.gif&ct=g" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -31,6 +31,4 @@ Welcome to my Github page! I am Dani and I am currently finishing my System Anal
 #### :computer: Favorite programming language: 
 JavaScript
 
-<p>
-	<img width="50%" align="right" src="http://funnymama.com/post/285846"/>
 
