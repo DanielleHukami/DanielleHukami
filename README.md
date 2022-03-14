@@ -32,5 +32,5 @@ Welcome to my Github page! I am Dani and I am currently finishing my System Anal
 JavaScript
 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="http://funnymama.com/post/285846"/>
 
