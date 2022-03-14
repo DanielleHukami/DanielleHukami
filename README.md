@@ -4,21 +4,32 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DanielleHukami)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniellehukami/)
 
-Welcome to my Github page! I am Dani and I am currently finishing my  degree at the university of Granada!  
+Welcome to my Github page! I am Dani and I am currently finishing my System Analysis and Development degree at the university Positivo  
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Finish my System Analysis and Development Degree 🚀  
+- Studying in the Growdev program full stack web developer
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+
+#### :muscle: Hobbies:
+- Studying japanese culture
+- Read horror manga 
+- Play with my dog called Lana
+- Play horror games
+
+#### :muscle: Academic formation:
+- Graduated in Psychology at Tuiuti do Paraná University 
+- Graduating in Systems Analysis and Development at Positivo University  
+- Postgraduate in People Management at Positivo University
+
+#### :muscle: Professional Experiences:
+- Social Psychologist at NGO INCANTO
+
+#### :muscle: Favorite programming language: 
+JavaScript
 
 #### :computer: Programming languages and tools: 
 <p>
