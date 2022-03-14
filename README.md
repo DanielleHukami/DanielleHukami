@@ -11,7 +11,7 @@ Welcome to my Github page! I am Dani and I am currently finishing my System Anal
 
 #### 🌱 Things I am currently working on: 
 - Finish my System Analysis and Development Degree   
-- Studying in the Growdev program full stack web developer
+- Studying in the Growdev Program FullStack Web Developer
 
 
 #### ⚽ Hobbies:
