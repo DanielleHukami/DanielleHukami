@@ -14,18 +14,18 @@ Welcome to my Github page! I am Dani and I am currently finishing my System Anal
 - Studying in the Growdev program full stack web developer
 
 
-#### ⚽: Hobbies:
+#### ⚽ Hobbies:
 - Studying japanese culture
 - Read horror manga 
 - Play with my dog called Lana
 - Play horror games
 
-#### 🔍: Academic formation:
+#### 🔍 Academic formation:
 - Graduated in Psychology at Tuiuti do Paraná University 
 - Graduating in Systems Analysis and Development at Positivo University  
 - Postgraduate in People Management at Positivo University
 
-#### 🧑‍💼: Professional Experiences:
+#### 🧑‍💼 Professional Experiences:
 - Social Psychologist at NGO INCANTO
 
 #### :computer: Favorite programming language: 
